@@ -1,0 +1,99 @@
+h1, h2, h3, p {
+	text-align: center;
+}
+
+.title {
+    font-family: 'Reem Kufi Ink', sans-serif; /*titolo*/
+    padding: 4%;
+    background-color: #B983FF;
+}
+
+.intro {
+	font-family: 'Blinker', sans-serif; /*commento*/
+	margin: 0 25%;
+	text-align: justify;
+	padding-top: 2%;
+}
+
+.quote {
+	font-family: 'Aref Ruqaa Ink', serif; /*citazione*/
+	margin: 0 25%;
+}
+
+.video {
+	padding-top: 1.5%;
+	text-align: center;
+}
+
+.comment {
+	font-family: 'Blinker', sans-serif; /*commento*/
+	margin: 0 25%;
+	text-align: justify;
+}
+
+::selection {
+	background: #99FEFF;
+}
+
+
+/*
+.onish {
+	background-color: #7fa99b;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	z-index: -2;
+	top: 500px;
+	left: 100px;
+}
+
+.twoish {
+	background-color: #f6e79c;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	z-index: -2;
+	top: 515px;
+	left: 115px;
+}
+
+.threeish {
+	background-color: #f79c1d;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	z-index: -2;
+	top: 525px;
+	left: 135px;
+}
+
+.fourthish {
+	background-color: #9c2c2c;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	z-index: -2;
+	top: 530px;
+	left: 160px;
+}
+
+.fifthish {
+	background-color: #7fa99b;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	z-index: -2;
+	top: 520px;
+	left: 200px;
+}
+
+.sixish {
+	background-color: #f6e79c;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	z-index: -2;
+	top: 500px;
+	left: 240px;
+}
+*/
